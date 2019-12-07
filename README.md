@@ -1,2 +1,2 @@
-# Predicting_SF_Ambulance_Hourly_Call_Volumes
-Data science and machine learning to predict ambulance calls by hour in San Francisco. This file contains the data preparation as well as a slew of graphs that show the relationships between variables and hourly call volumes. The final Jupyter Notebook shows the predictions at their current state which are within a maximum average error of 3.53 calls/hour and an R squared of 0.4953, which are significant when considering the highly erratic nature of emergency calls. Suggestions and tips are welcomed as this project remains in progress. 
+# Predicting EMS Calls by Hour
+This project is attempting to create more accurate hourly predictions of EMS calls so that staffing and ambulance deployment schedules within the city of San Francisco can be optimized to provide better coverage. 
